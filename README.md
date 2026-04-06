@@ -2,7 +2,7 @@
 
 ### 🎓 Computer Engineering Student | Aspiring Semiconductor & VLSI Engineer
 
-I am a dedicated Computer Engineering student at the University of Information Technology (UIT) - VNUHCM. I am actively seeking a semiconductor internship to leverage my hands-on experience in digital design, SoC/ASIC flow, and verification. 
+I am a dedicated Computer Engineering student at the University of Information Technology (UIT) - VNUHCM. I have a strong passion for digital design, SoC architecture, and hardware verification.
 
 ---
 
@@ -18,22 +18,28 @@ I am a dedicated Computer Engineering student at the University of Information T
 
 ### 🚀 Featured Hardware Projects
 
-#### [Title of your FPGA Repo]
+#### [FPGA Acceleration (Gemma Model)](https://github.com/CuongNgyn2005/GEMMA3_backup)
 * **Tech:** Vitis HLS, C++, Xilinx KV260
 * **Details:** Accelerated Gemma models on a KV260 FPGA to improve inference performance, optimizing C++ and HLS code within Xilinx environments.
 
-#### [Title of your SoC/DMA Repo]
-* **Tech:** Nios II, Qsys, ModelSim, Intel DE2
-* **Details:** Simulated and deployed a Nios II soft processor system with a DMA controller on a DE2 board, using SignalTap for hardware-level debugging.
-
-#### [Title of your Custom IC Repo]
-* **Tech:** Synopsys Custom Designer, CMOS (90nm)
-* **Details:** Executed a full custom design flow for a CMOS inverter, performing post-layout simulations to analyze RC parasitics and propagation delay.
-
-#### [Title of your Crypto/Image Processing Repo]
+#### [Hardware Description Language Projects](https://github.com/CuongNgyn2005/HDL_Projects)
 * **Tech:** Verilog, VHDL
-* **Details:** Programmed a DES encryption algorithm from scratch and designed a median filter to eliminate "salt" noise from image outputs.
+* **Details:** Contains various digital design projects, including a median filter designed to successfully identify and eliminate "salt" noise from image outputs. *(Note: Includes foundational architecture and simulation setups.)*
 
+#### [Data Encryption Standard (DES) Implementation](https://github.com/CuongNgyn2005/DES-56bits-key)
+* **Tech:** Verilog
+* **Details:** Programmed a DES encryption algorithm from scratch to secure data pathways. *(See also the extended [128-bit version](https://github.com/CuongNgyn2005/DES_128bits))*
+
+#### [Microcontroller Lab Projects](https://github.com/CuongNgyn2005/MCU_Lab)
+* **Tech:** Assembly
+* **Details:** Laboratory projects from UIT-VNU focusing on low-level microcontroller architectures and assembly programming.
+
+#### [Nios II SoC & Hardware Accelerator] 
+* **Tech:** Nios II, Qsys, Intel Quartus, Avalon Bus, Intel DE2 *(Not upload yet)*
+* **Details:** Designed a Nios II soft processor system using Qsys in Intel Quartus. Created a custom Avalon interface to connect the processor to the IP DES-56bits encryption module, and deployed the complete SoC onto an Intel DE2 development kit.
+#### [Custom IC Design & VLSI Layout] 
+* **Tech**: Custom Compiler, 90nm technique *(Not upload yet)*
+* **Details:** Designed a SRAM with CMOS from Dff, MUX, Decoder,... Then simulate, verify the function and test with DRC, LPE, ... implement Pre-layout and Post-layout.
 ---
 
 ### 📫 Let's Connect
