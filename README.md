@@ -1,4 +1,4 @@
-# Hi there, I'm Cuong Nguyen Hoang Quoc 👋
+# Hi, I'm Cuong(Jerry) Nguyen
 
 ### 🎓 Computer Engineering Student | Aspiring Semiconductor & VLSI Engineer
 
