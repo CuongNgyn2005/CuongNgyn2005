@@ -11,16 +11,16 @@ I am a dedicated Computer Engineering student at the University of Information T
 * **Hardware Description:** Verilog, SystemVerilog, VHDL
 * **Verification:** UVM, Questa Sim, ModelSim
 * **EDA Tools:** Vivado, Vitis HLS, Quartus, Synopsys Custom Designer
-* **Hardware & Architecture:** FPGAs (KV260, DE2), Nios II Soft Processor, SoC Architecture, CMOS Layout
+* **Hardware & Architecture:** FPGAs (KV260, DE2, ZCU104), Nios II Soft Processor, SoC Architecture, CMOS Layout
 * **Software & Programming:** C, C++
 
 ---
 
 ### 🚀 Featured Hardware Projects
 
-#### [FPGA Acceleration (Gemma Model)](https://github.com/CuongNgyn2005/GEMMA3_backup)
-* **Tech:** Vitis HLS, C++, Xilinx KV260
-* **Details:** Accelerated Gemma models on a KV260 FPGA to improve inference performance, optimizing C++ and HLS code within Xilinx environments.
+#### [FPGA Acceleration (Gemma Model)](https://github.com/CuongNgyn2005/LLM_GEMMA3-1B-INT8)
+* **Tech:** Vitis HLS, C++, Xilinx ZCU104
+* **Details:** Accelerated Gemma models on a ZCU104 FPGA to improve inference performance, optimizing C++ and HLS code within Xilinx environments.
 
 #### [Hardware Description Language Projects](https://github.com/CuongNgyn2005/HDL_Projects)
 * **Tech:** Verilog, VHDL
